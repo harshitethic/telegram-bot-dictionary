@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot-dictionary",
+  "version": "1.0.0",
+  "description": "Telegram bot for word meanings using the Dictionary API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harshit Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.55.0",
+    "axios": "^0.24.0"
+  }
+}
